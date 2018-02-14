@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1080569014984",
+    "firebase_url": "https://gymsynergy-37bf4.firebaseio.com",
+    "project_id": "gymsynergy-37bf4",
+    "storage_bucket": "gymsynergy-37bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080569014984:android:b33a1c267ee44399",
+        "android_client_info": {
+          "package_name": "com.example.amanmehta.gymsynergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080569014984-dk4t6qipc6ogm64uojm254lpo3iad8be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amanmehta.gymsynergy",
+            "certificate_hash": "484691dd4deee75737a9c4a975a89258a87722b3"
+          }
+        },
+        {
+          "client_id": "1080569014984-eckpp4i2bhk0gasnco34g4tt9q9434av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqOlEfvmTlcTyOsm7Z6-CHASnRTZ6PZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080569014984-eckpp4i2bhk0gasnco34g4tt9q9434av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
